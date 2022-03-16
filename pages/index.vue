@@ -1,6 +1,6 @@
 <template>
   <div class="here">
-      hello kimhak
+      Hello Kimhak
   </div>
 </template>
 
